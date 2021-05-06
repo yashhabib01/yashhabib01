@@ -1,9 +1,9 @@
-<h2> Hey there!👋 I'm Aniket.</h2>
+<h2> Hey there!👋 I'm Yash.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Computer Engineering, Student 
+- 🎓 &nbsp;  Diploma Computer Engineering, Student 
 
 <h3>🛠 Tech Stack</h3>
 <pre>
