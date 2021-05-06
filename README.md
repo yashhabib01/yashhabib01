@@ -20,6 +20,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.instagram.com/_yash_habib_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aniket.ts-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:yash.d.habib1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-had096705@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/_yash_habib_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_yash_habib_-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:yash.d.habib1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yash.d.habib1@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
