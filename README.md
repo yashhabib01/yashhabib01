@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp;  Diploma in Computer Engineering, Student 
+- 🎓 &nbsp;  Bachelors in Computer Engineering, Student 
 
 <h3>🛠 Tech Stack</h3>
 <pre>
